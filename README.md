@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **My Portfolio**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://manjariraikwar.vercel.app)**
 
 - 📫 How to reach me **raikwar.manjari@gmail.com**
 
