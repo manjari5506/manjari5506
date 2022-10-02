@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manjari</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer from India.</h3>
