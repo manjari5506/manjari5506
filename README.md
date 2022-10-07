@@ -1,5 +1,5 @@
 <div align="center" >
-<a href="#"><img width="60%" height="auto"  src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.gif" height="100px"/></a>
+<a href="#"><img width="60%" height="auto"  src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" height="100px"/></a>
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manjari</h1>
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently studing at **Masai School**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and React.**
+- 🌱 I’m currently learning **Data Structures and Algorithms and MERN-stack.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://manjariraikwar.vercel.app)**
+- 👨‍💻 Have a look at my profile at **[My Portfolio](https://manjariraikwar.vercel.app)**
 
 - 📫 How to reach me **raikwar.manjari@gmail.com**
 
