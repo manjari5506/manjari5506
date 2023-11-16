@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manjari</h1>
-<h3 align="center">I'm a passionate Full-Stack Web Developer from India.</h3>
+<h3 align="center">I'm a passionate and dynamic Full Stack Developer with a passion for crafting seamless web experiences.Proficient in HTML, CSS, JavaScript, Node.js, React, and MongoDB, brings a comprehensive skill set to the table.</h3>
 
 
 ## 🙋‍♂️ About Me
