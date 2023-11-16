@@ -64,7 +64,6 @@
 
 <br/>
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=manjari5506&theme=radical)](https://github.com/manjari5506/github-profile-trophy)
 
 <br/>
 <br/>
