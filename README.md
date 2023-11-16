@@ -8,13 +8,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studing at **Masai School**
+- 🔭 I'm an experienced Full-stack web developer specialised in MERN-stack.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and MERN-stack.**
+- 🌱 I have completed Full-stack web development course from **Masai School.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Have a look at my profile at **[My Portfolio](https://manjariraikwar.vercel.app)**
+- 👨‍💻 Have a look at my profile at **[My Portfolio](https://myportfolio-manjari5506.vercel.app/)**
 
 - 📫 How to reach me **raikwar.manjari@gmail.com**
 
